@@ -8,7 +8,7 @@ public class Contrller {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello jenkins";
+		return "Hello jenkins completed";
 	}
 	
 }
